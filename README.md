@@ -26,7 +26,10 @@
 - Design Patterns #19 - Visitor (Посетитель)
 - Design Patterns #20 - Command (Команда)
 - Design Patterns #21 - Observer (Наблюдатель)
-- Design Patterns #22 - State (Состояние)
+- Design Patterns #22 - State (Состояние)  
+  
+## Все в одном видео
+https://www.youtube.com/watch?v=bTiAfLbmsnY&feature=emb_logo  
 
 ## Автор курса в социальных сетях:
 Social network | Link to Profile
