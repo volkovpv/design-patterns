@@ -1,0 +1,20 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "### Описание курса: В данном видео-курсе мы с вами рассмотрим самые распространённые паттерны проектирования, которые используются при разработке. Рассматривать мы их с вами будем на примере языка JavaScript в синтаксисе ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovpv/design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volkovpv/design-patterns/issues"
+  },
+  "homepage": "https://github.com/volkovpv/design-patterns#readme"
+}
